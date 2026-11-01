@@ -10,12 +10,18 @@ I find problems in the field and build the software that fixes them. As the sole
 
 ## 🔨 What I'm building
 
-**VTMS: Virtual Teachers Management System** *(my idea · piloting December 2026)*
+### VTMS: Virtual Teachers Management System
+*My idea · piloting December 2026*
+
 Connects volunteer teachers worldwide with 590 rural classrooms in Telangana. Teacher, school and admin dashboards, a 100-point matching engine, automatic time-zone handling, reminders, attendance and feedback, RBAC and audit logs, 69 automated tests.
+
 `React 19` `Node.js` `Express` `MongoDB Atlas` `Tailwind CSS` `Vercel` `Render`
 
-**Digital Classroom Utilization Monitoring** *(my idea · online pilot running)*
+### Digital Classroom Utilization Monitoring
+*My idea · online pilot running*
+
 Replaced daily WhatsApp photo reports with automatic usage records for 590 classrooms in 64 schools: an Android app on each classroom device, a Node.js + PostgreSQL API that stores every record exactly once, and a dashboard with one-click Excel reports. Idea to pilot in 4 weeks; 12 releases, 80+ automated tests.
+
 `Node.js` `PostgreSQL` `Android` `Render` `Neon`
 
 *Both are organisation projects, so the code is private. Happy to walk through the architecture in an interview.* Read the [case studies](https://personal-portfolio-13e7.vercel.app/#case-studies).
@@ -35,10 +41,10 @@ Replaced daily WhatsApp photo reports with automatic usage records for 590 class
 
 ## 🧰 Tech stack
 
-**Frontend:** React.js · Redux Toolkit · Next.js · JavaScript · TypeScript · Tailwind CSS · Material-UI
-**Backend:** Node.js · Express.js · REST APIs · Socket.io · JWT · RBAC
-**Data:** MongoDB · Mongoose · PostgreSQL · MySQL
-**Cloud & tools:** Google Cloud Platform · Vercel · Render · Neon · Git · Claude Code · ChatGPT/Codex
+- **Frontend:** React.js · Redux Toolkit · Next.js · JavaScript · TypeScript · Tailwind CSS · Material-UI
+- **Backend:** Node.js · Express.js · REST APIs · Socket.io · JWT · RBAC
+- **Data:** MongoDB · Mongoose · PostgreSQL · MySQL
+- **Cloud & tools:** Google Cloud Platform · Vercel · Render · Neon · Git · Claude Code · ChatGPT/Codex
 
 ---
 
