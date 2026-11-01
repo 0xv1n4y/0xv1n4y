@@ -33,7 +33,7 @@ Replaced daily WhatsApp photo reports with automatic usage records for 590 class
 | Project | What it does | Live | Code |
 |---|---|---|---|
 | **TaskFlow** | Task manager with productivity analytics: heatmaps, weekly charts, streaks | [Demo](https://task-flow-client-roan.vercel.app) | [Client](https://github.com/0xv1n4y/Task-Flow-Client) · [Server](https://github.com/0xv1n4y/Task-Flow-Server) |
-| **Real-Time Chat** | One-on-one and group chat with typing indicators (Socket.io, JWT) | [Demo](https://chat-client-virid-seven.vercel.app) | [Client](https://github.com/0xv1n4y/Chat-Client) · [Server](https://github.com/0xv1n4y/Chat-Server) |
+| **Real-Time Chat** | One-on-one and group chat with typing indicators (Socket.io, JWT) | [Demo](https://chat-client-orcin.vercel.app) | [Client](https://github.com/0xv1n4y/Chat-Client) · [Server](https://github.com/0xv1n4y/Chat-Server) |
 | **Clinical Trial Applications** | Multi-step applications with record management and PDF export | [Demo](https://clinicial-trails-client.vercel.app) | [Client](https://github.com/0xv1n4y/Clinicial-Trails-Client) · [Server](https://github.com/0xv1n4y/Clinicial-Trails-Server) |
 | **HTML Text Editor** | Rich-text editor with live HTML preview | [Demo](https://html-texteditor-mu.vercel.app) | [Code](https://github.com/0xv1n4y/HTML-Texteditor) |
 
